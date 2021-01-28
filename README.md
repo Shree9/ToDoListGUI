@@ -8,4 +8,7 @@ from WSU
 # ToDoListGUI
 Helps the user to plan  their schedules.
 
+you can add and delete tems from there 
+color codes stuff. 
+
 
